@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "This is my new stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "hear's some stream",
+      "id": 2
+    },
+    {
+      "title": "Avengers Endgame",
+      "description": "The last episode",
+      "userId": "107124199688985216650",
+      "id": 3
+    }
+  ]
+}
